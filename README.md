@@ -1,6 +1,6 @@
 # Emotion-Classification-Detecion
 Build Machine learning model that can detect the emotion in a given image
-See the demo [here](https://otman-ai-gender-classification--hello-sko6hj.streamlit.app/)
+See the demo [here](https://otman-ai-emotiondeetction--hello-twz393.streamlit.app/)
 ## Content of this page:
 * [What is Emotion classification](#what-is-emotion-classification)
 * [How to use this repo](#how-to-use-this-repo)
